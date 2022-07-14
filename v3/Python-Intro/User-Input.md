@@ -49,3 +49,9 @@ What would you set the variable age_as_a_number equal to, to turn the string int
 <code>print(age_as_number + 3)</code> 
 <br>
 Input has a lot more to it, but as long as you or people you know are the main users, this is a good start. Converting numbers to strings so you can display them, or converting strings to numbers so you can do math operations are a good place to get you started!
+<h1>Recap</h1>
+Now you know you can get input from users, and save that information to a variable for your program to use. Also you have some tools for dealing with input that needs to be changed to a number or a string.
+<br>
+Create a new program with at least one input from a user.
+<br>
+Convert the input to an int, or other information to a string to use it in your program!
