@@ -1,6 +1,7 @@
 <a href="/README.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="/v3/Python-Intro/Jupyter-NB.md">Next &gt;</a>
+<hr>
 <h1>Welcome!</h1>
 Before you get started, you'll want to read through the iD Code, either with your instructor, or independently.
 <br>
