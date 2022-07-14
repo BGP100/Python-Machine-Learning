@@ -46,6 +46,6 @@ Change your program to:
 <br>
 What would you set the variable age_as_a_number equal to, to turn the string into an int? <code>age_as_num = int(age)</code>
 <br>
-print(age_as_number + 3) 
+<code>print(age_as_number + 3)</code> 
 <br>
 Input has a lot more to it, but as long as you or people you know are the main users, this is a good start. Converting numbers to strings so you can display them, or converting strings to numbers so you can do math operations are a good place to get you started!
