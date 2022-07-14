@@ -1,5 +1,5 @@
 <h1>Python Machine Learning</h1>
-If you were wordering, I just archived everything about Python Machine Learning from iDtech. Is this legal? idk.
+If you were wordering, I just archived everything about Python Machine Learning from iDtech. Is this legal? idk and who cares.
 <br>
 Anyway, I just had access to v3 and v4, but everything else is kinda the same thing.
 <br>
