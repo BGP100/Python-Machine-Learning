@@ -1,6 +1,6 @@
 <a href="/v3/Python-Intro/Random.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/v3/Loops-and-Functions/For-Loops.md">Next </a>
+<a href="/v3/Loops-and-Functions/For-Loops.md">Next &gt;</a>
 <hr>
 In programming, loops allow you to repeat a block of code a number of times.
 <br>
