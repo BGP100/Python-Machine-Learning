@@ -4,7 +4,7 @@
 <hr>
 Most of the code for this course will be written in Jupyter Notebooks. Follow these steps to get set up with Jupyter Notebook and the materials in this course.
 <ol>
-  <li>Get <a href="https://drive.google.com/uc?id=1VgP4gHvHT_96u8J3Z8bXNaptnvlLeMkZ&export=download">Free PyCharm</a></li>
+  <li>Get <a href="https://drive.google.com/uc?id=1VgP4gHvHT_96u8J3Z8bXNaptnvlLeMkZ&export=download">Free PyCharm</a>. (don't worry it's not a virus, it's my own copy of pycharm from like 2017 but it works.)</li>
   <li>Download <a href="https://drive.google.com/uc?id=1vPBhi49kZspTxR7uq41xdxBrFDHKXjMx&export=download">this</a> jupyter file.</li>
   <li>Select your student folder and put the file there.</li>
   <li>Open your student folder in File Explorer.</li>
