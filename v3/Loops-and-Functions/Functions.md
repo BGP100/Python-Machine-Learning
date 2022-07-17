@@ -1,6 +1,6 @@
-<a href="/v3/Loops-and-Functions/While-Loops.md">&lt; Previous</a>
+<a href="/v3/Loops-and-Functions/For-Loops.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/v3/Loops-and-Functions/Functions.md">Next &gt;</a>
+<a href="/v3/Loops-and-Functions/GuessTheNumber-Challenge.md">Next &gt;</a>
 <hr>
 <h1>Intro</h1>
 There will be times when you want to perform a series of actions, and instead of writing those statements over and over every time, you can use a function!
