@@ -11,7 +11,9 @@ Now that you've reviewed the basics of Python programming, you'll create a progr
 2. Create a new project called "UserStory".
 <br>
 3. Write a 6–8 line story that you'll use for the rest of the project.
-<br><br>
+<br>
+<img src="https://i.imgur.com/WmCfulM.jpg">
+<br>
 Here are seven lines about a happy dragon who becomes sad:
 <ol>
   <li>Once upon a time, there was a happy dragon.</li>
