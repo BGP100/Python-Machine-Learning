@@ -1,6 +1,6 @@
-<a href="/v3/Libraries/Graphs.md">&lt; Previous</a>
+<a href="/v3/Libraries/Graphing-Challenges.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/v3/ML-Intro/Neuronal-Networks.md">Next &gt;</a>
+<a href="/v3/ML-Intro/Train-Models-with-TM.md">Next &gt;</a>
 <hr>
 A basic task for any neural network is classification: separating inputs into two groups, called classes.
 <br>
@@ -35,7 +35,7 @@ The <a href="https://playground.tensorflow.org/#activation=tanh&batchSize=10&dat
 <hr>
 8-layer circle
 <br>
-<a href="https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=2,2&seed=0.65082&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=true&ySquared=true&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false&showTestData_hide=true&stepButton_hide=true&problem_hide=true&noise_hide=true&discretize_hide=true&regularization_hide=true&dataset_hide=true&batchSize_hide=true&learningRate_hide=true&regularizationRate_hide=true&percTrainData_hide=true&numHiddenLayers_hide=true&activation_hide=true](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=2,2,1,2,2,2,1,2&seed=0.65082&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=true&xSquared=true&ySquared=true&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false&showTestData_hide=true&stepButton_hide=true&problem_hide=true&noise_hide=true&discretize_hide=true&regularization_hide=true&dataset_hide=true&batchSize_hide=true&learningRate_hide=true&regularizationRate_hide=true&percTrainData_hide=true&numHiddenLayers_hide=true&activation_hide=true">link</a>
+<a href="https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=2,2&seed=0.65082&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=true&ySquared=true&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false&showTestData_hide=true&stepButton_hide=true&problem_hide=true&noise_hide=true&discretize_hide=true&regularization_hide=true&dataset_hide=true&batchSize_hide=true&learningRate_hide=true&regularizationRate_hide=true&percTrainData_hide=true&numHiddenLayers_hide=true&activation_hide=true">link</a>
 <hr>
 <b>Important:</b> If these don't work first try, play it again. It's completely random.
 <h2>Blue and Orange</h2>
@@ -48,6 +48,7 @@ How often the prediction disagrees with the actual color of the points is the lo
 You can see the loss of your model right above the image, as a graph of loss over time, and as your current loss.
 <h2>Neurons: Better Together</h2>
 Take a look at what happens when you try using just one neuron to solve the problem.
+<br>
 1. Click <a href="https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=2&seed=0.65082&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false&showTestData_hide=true&stepButton_hide=true&problem_hide=true&noise_hide=true&discretize_hide=true&regularization_hide=true&dataset_hide=true&batchSize_hide=true&learningRate_hide=true&regularizationRate_hide=true&percTrainData_hide=true&numHiddenLayers_hide=false&activation_hide=true">here</a> to open a playground with just one neuron. 
 <br>
 2. Click the Play button to see how one neuron attempts to solve the problem.
