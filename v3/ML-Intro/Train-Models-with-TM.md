@@ -7,6 +7,8 @@
 Teachable Machine is perfect for models with small datasets and simple tasks. The example below tests whether the user in the webcam is giving a thumbs-up or thumbs-down.
 <br>
 <img src="https://i.imgur.com/zhWxQdI.gif">
+<br>
+<a href="https://i.imgur.com/zhWxQdI.gif">Click here if it doesn't load</a>
 <h1>What is a Machine Learning Model?</h1>
 Machine learning works by feeding data into a computer program, which uses that data to adjust its parameters and learn how to complete a task.
 <br>
@@ -60,6 +62,8 @@ The more data you provide for the model, the better it will be able to learn its
 <br>
 <img src="https://i.imgur.com/p27cTvQ.gif">
 <br>
+<a href="https://i.imgur.com/p27cTvQ.gif">Click here if it doesn't load</a>
+<br><br>
 A good dataset is the foundation of an effective machine learning model. The more varied data you provide for each of the classes, the better the model will be able to detect each of the different classes. Now that you've collected your data, you can train the model.
 <h1>Training</h1>
 Behind the scenes, Teachable Machine is feeding your data for each class into the neural network, which then attempts to guess the correct class for each image. Based on comparing the guesses to the actual correct class for the image, the network adjusts its parameters. By repeating this process and adjusting for each image in the dataset, the model slightly improves its ability to guess the class of a given input.
