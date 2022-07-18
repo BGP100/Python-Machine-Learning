@@ -11,5 +11,5 @@ It could be about doctor's appointments, credit cards, or any number of things. 
 Read the article <a href="http://www.betterbuys.com/estimating-password-cracking-times/">Estimating Password Cracking</a> Times from Better Buys with your Instructor to learn more.
 <br>
 Look at the infographics and think about whether or not your passwords are strong enough!
-<h1>Fake Passwords!</h1>
+<h1>Use Fake Passwords!</h1>
 If you enter a password in on the website in the box, make sure you don't use a real password you have. Create a new one for this activity.
