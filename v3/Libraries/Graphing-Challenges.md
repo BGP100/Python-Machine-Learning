@@ -1,6 +1,6 @@
-<a href="/v3/Libraries/Arrays.md">&lt; Previous</a>
+<a href="/v3/Libraries/Graphs.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/v3/Libraries/Graphing-Challenges.md">Next &gt;</a>
+<a href="/v3/ML-Intro/Neuronal-Networks.md">Next &gt;</a>
 <hr>
 You have learned a lot about some very helpful python libraries and what you can do with them. Follow these challenges to expand your knowledge and practice your coding skills.
 <hr>
