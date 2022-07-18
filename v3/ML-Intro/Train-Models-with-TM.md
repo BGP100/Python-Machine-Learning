@@ -58,7 +58,7 @@ The more data you provide for the model, the better it will be able to learn its
 <br>
 4. Repeat this process for each of the different hand signs, including None, where you'll hold up no hand signs.
 <br>
-<img src="https://i.imgur.com/v3KKJaS.gif">
+<img src="https://i.imgur.com/p27cTvQ.gif">
 <br>
 A good dataset is the foundation of an effective machine learning model. The more varied data you provide for each of the classes, the better the model will be able to detect each of the different classes. Now that you've collected your data, you can train the model.
 <h1>Training</h1>
