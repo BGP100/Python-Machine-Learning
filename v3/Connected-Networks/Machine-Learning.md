@@ -1,6 +1,6 @@
-<a href="/v3/ML-Intro/Playable-RPS-Challenge.md">&lt; Previous</a>
+<a href="/v3/ML-Intro/Teachable-Machine-Challenges.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/v3/Connected-Networks/Machine-Learning.md">Next &gt;</a>
+<a href="/v3/Connected-Networks/Keras.md">Next &gt;</a>
 <hr>
 Most programming you've done requires you to specify exactly how to complete a task line by line. Machine learning refers to programming techniques that use statistics to allow the program to "learn" and improve at its task.
 <br>
