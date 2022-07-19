@@ -1,4 +1,4 @@
-<a href="/v3/ML-Intro/Running-Your-Models.md">&lt; Previous</a>
+<a href="/v3/ML-Intro/Running-Your-Model.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="/v3/ML-Intro/Teachable-Machine-Challenges.md">Next &gt;</a>
 <hr>
