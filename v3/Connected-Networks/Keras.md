@@ -1,6 +1,6 @@
-<a href="/v3/ML-Intro/Teachable-Machine-Challenges.md">&lt; Previous</a>
+<a href="/v3/Connected-Networks/Machine-Learning.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/v3/Connected-Networks/Keras.md">Next &gt;</a>
+<a href="/v3/Connected-Networks/Image-Recognition.md">Next &gt;</a>
 <hr>
 <img src="https://i.imgur.com/tFOXrrX.png">
 <br>
@@ -13,7 +13,7 @@ You'll use this library to create and train your own machine learning models. Th
 Keras uses the TensorFlow library from Google as a backend. TensorFlow is usually imported as the shortened name <b>tf</b>. This makes typing out code that references TensorFlow functions quicker and easier.
 <br>
 1. In the first cell, import the TensorFlow library:
-import tensorflow as tf 
+<pre>import tensorflow as tf</pre>
 <br>
 2. Below, import the Keras Library:
 <pre>from tensorflow import keras</pre>
