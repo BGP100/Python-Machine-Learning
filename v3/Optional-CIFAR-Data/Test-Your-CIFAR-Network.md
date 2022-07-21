@@ -1,4 +1,4 @@
-<a href="/v3/Optional-CIFAR-Data/Preparing-CIFAR-Data-Challenge.md.md">&lt; Previous</a>
+<a href="/v3/Optional-CIFAR-Data/Creating-a-Network-for-CIFAR.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="/v3/Wrap-Up/Project-Submission.md">Next &gt;</a>
 <hr>
