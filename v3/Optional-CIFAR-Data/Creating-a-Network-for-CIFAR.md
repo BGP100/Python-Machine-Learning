@@ -1,6 +1,6 @@
-<a href="/v3/CNN/Test-Your-CNN.md">&lt; Previous</a>
+<a href="/v3//Optional-CIFAR-Data/Preparing-CIFAR-Data-Challenge.md.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/v3/Optional-CIFAR-Data/Creating-a-Network-for-CIFAR.md">Next &gt;</a>
+<a href="/v3/Optional-CIFAR-Data/Test-Your-CIFAR-Network.md">Next &gt;</a>
 <hr>
 Now that you have your data prepared it is ready to feed into a network. Since this data is so complicated, it makes sense to use another convolutional network. This kind of network will be slightly less computationally needy and will be able to draw conclusions about the data.  
 <br>
