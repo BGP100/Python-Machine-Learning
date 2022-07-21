@@ -96,10 +96,9 @@ This layer is defined the same way as the last one, except for more filters, 64 
 <pre>model.add(Conv2D(filters=64,kernel_size=(3,3),activation='relu'))</pre>
 <img src="https://i.imgur.com/omsKb2a.png">
 <br>
-Dropout Layers
-
+<h1>Dropout Layers</h1>
 A dropout layer takes a percentage of all the neurons in the input and deactivates them at random. This random dropout of neurons forces more of the network to adapt to the task.
-
+<br>
 Without a dropout layer, larger networks run the risk of growing overdependent on a small set of competent neurons rather than the whole network learning the task.
 <br>
 1. Add a dropout layer using the Dropout function:
