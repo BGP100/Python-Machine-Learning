@@ -1,6 +1,6 @@
 <a href="/v3/Optional-CIFAR-Data/Test-Your-CIFAR-Network.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/v3/Wrap-Up/Project-Submission.md">Next &gt;</a>
+<a href="/v3/Wrap-Up/Resources.md">Next &gt;</a>
 <hr>
 <h1>Share Your Project</h1>
 You've spent a lot of time working on your project in this course, so you'll share what you did with your classmates and instructor. If you want to share it with an even bigger audience, you can submit your project directly to iD Tech for a chance to be showcased in this course or on the website!
