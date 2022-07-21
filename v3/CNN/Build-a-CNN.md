@@ -1,6 +1,6 @@
-<a href="/v3/Connected-Networks/Improving-Your-Network.md">&lt; Previous</a>
+<a href="/v3/CNN/Intro-to-CNN.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/v3/CNN/Build-a-CNN.md">Next &gt;</a>
+<a href="/v3/CNN/Test-Your-CNN.md">Next &gt;</a>
 <hr>
 So far you have been working with densely connected networks. With enough training data and enough neurons, a densely connected network could solve just about any problem. 
 <br>
