@@ -1,6 +1,6 @@
-<a href="/v3/CNN/Build-a-CNN.md">&lt; Previous</a>
+<a href="/v3/CNN/Test-Your-CNN.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/v3/Optional-CIFAR-Data/Preparing-CIFAR-Data-Challenge.md">Next &gt;</a>
+<a href="/v3/Optional-CIFAR-Data/Creating-a-Network-for-CIFAR.md">Next &gt;</a>
 <hr>
 <h1>Understanding the CIFAR Data</h1>
 Now that you understand how two different kinds of networks work for the MNIST dataset, you are going to prepare data for a more general image recognition problem. A lot of the same principles of neural networks apply, but this network is going to be a lot more complicated and robust.
