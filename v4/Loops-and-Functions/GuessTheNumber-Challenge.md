@@ -1,6 +1,6 @@
-<a href="/v4/Loops-and-Functions/Functions.md">&lt; Previous</a>
+<a href="/v4/Loops-and-Functions/For-Loops.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/v4/Optional-Challenges/Creating-a-Story.md">Next &gt;</a>
+<a href="/v4/Functions-and-Classes/Functions.md">Next &gt;</a>
 <hr>
 <h1>Your First Game</h1>
 Now, test your knowledge by completing a Guess the Number game coding challenge!
