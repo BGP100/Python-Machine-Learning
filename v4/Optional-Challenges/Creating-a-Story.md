@@ -33,5 +33,5 @@ Continue to use <code>print()</code> to send the remaining lines of your story t
 Write the story about something important to you. It doesn't have to be dragons, it could be a diary about your day or something you just make up!
 <h1>Recap</h1>
 Plan out a short story. Use <code>print()</code> commands to print your story line by line.
-<br>
+<pre>print("First line of your story")</pre>
 Use escape characters in a creative way to format your story the way you want.
