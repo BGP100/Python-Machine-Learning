@@ -1,6 +1,6 @@
 <a href="/v4/Python-Intro/Conditionals.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/v4/Loops-and-Functions/While-Loops.md">Next &gt;</a>
+<a href="/v4/Optional-Challenges/Creating-a-Story.md">Next &gt;</a>
 <hr>
 Programs often require the use of random numbers in everything from games to cyber security.
 <br>
