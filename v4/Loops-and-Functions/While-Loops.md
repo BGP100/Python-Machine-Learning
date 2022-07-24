@@ -1,6 +1,6 @@
-<a href="/v3/Optional-Challenges/Password-Protection.md">&lt; Previous</a>
+<a href="/v4/Optional-Challenges/Password-Protection.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/v3/Loops-and-Functions/For-Loops.md">Next &gt;</a>
+<a href="/v4/Loops-and-Functions/For-Loops.md">Next &gt;</a>
 <hr>
 In programming, loops allow you to repeat a block of code a number of times.
 <br>
