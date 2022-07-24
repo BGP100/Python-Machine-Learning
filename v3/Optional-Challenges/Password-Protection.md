@@ -2,8 +2,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="/v3/Optional-Challenges/Magic-8Ball.md">Next &gt;</a>
 <hr>
-User Input
-<br>
+<h1>User Input</h1>
 You created a secret or an important story.
 <br>
 Now use the <code>input()</code> command to let the user enter a password, or they don't get to read what you wrote!
