@@ -1,6 +1,6 @@
 <a href="/v4/Loops-and-Functions/While-Loops.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/v4/Loops-and-Functions/Functions.md">Next &gt;</a>
+<a href="/v4/Functions-and-Classes/Functions.md">Next &gt;</a>
 <hr>
 <h1>Intro</h1>
 For loops, must have three components:
