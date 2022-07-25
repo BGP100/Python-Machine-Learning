@@ -1,6 +1,6 @@
-<a href="/v4/Functions-and-Classes/Making-a-Class.md">&lt; Previous</a>
+<a href="/v4/Functions-and-Classes/Programs.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/v4/Battle-Bots/Variables-and-Methods.md">Next &gt;</a>
+<a href="/v4/Battle-Bots/Other-Abilities.md">Next &gt;</a>
 <hr>
 The battle bots competition is about to begin! You'll create a robot with a unique skill set to bring into the ring.
 <br>
