@@ -1,6 +1,6 @@
 <a href="/v4/CNN/Build-a-CNN.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/v4/Optional-CIFAR-Data/Preparing-CIFAR-Data-Challenge.md">Next &gt;</a>
+<a href="/v4/CIFAR-Data/Preparing-CIFAR-Data-Challenge.md">Next &gt;</a>
 <hr>
 <h1>Uploading Photos</h1>
 There are a lot of ways to test how effective your network is. You have mostly been using the test data from the MNIST dataset This is a really good way to make sure that the network has been trained for the data it has. However, as you set your network to actually complete the task it has been trained for, you might want to use your own images to see what the network is doing.
