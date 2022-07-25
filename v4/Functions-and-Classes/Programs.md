@@ -1,4 +1,4 @@
-<a href="/v4/Functions-and-Classes/Making-a-Class.md">&lt; Previous</a>
+<a href="/v4/Functions-and-Classes/Inheritance.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="/v4/Battle-Bots/Variables-and-Methods.md">Next &gt;</a>
 <hr>
