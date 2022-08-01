@@ -1,6 +1,6 @@
-<a href="/v4/Sentiment-Analysis/Vectorizing-Text.md">&lt; Previous</a>
+<a href="/v4/Sentiment-Analysis/BeautifulSoup-Challenges.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/v4/Sentiment-Analysis/Making-a-Network.md">Next &gt;</a>
+<a href="/v4/Sentiment-Analysis/Use-the-Model-in-Text.md">Next &gt;</a>
 <hr>
 <h1>Creating the Network</h1>
 So far you have cleaned up and prepared the data and vectorized it. Now, it's officially time to create the network to understand the text. Now that we have text as number input and three categories of output, this is essentially just a classification problem. Thus, you can create a network that does classification.
