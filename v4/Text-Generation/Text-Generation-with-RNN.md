@@ -160,7 +160,7 @@ Now that your data is split up and ready to go, you will shuffle it is ready to 
 1. Set a batch size so that the data can be entered into the network in batches.
 <pre>BATCH_SIZE = 64</pre>
 2. Set a buffer size so that you can shuffle the dataset without using too much memory.
-<pre>BUFFER_SIZE = 10000
+<pre>BUFFER_SIZE = 10000</pre>
 3. Now use that to set up your dataset.
 <pre>dataset = (dataset .shuffle(BUFFER_SIZE) .batch(BATCH_SIZE,drop_remainder=True) .prefetch(tf.data.experimental.AUTOTUNE))<br>print(dataset)</pre>
 Now your dataset is ready to be used to train your network! Move into the next lesson to learn about how to create an RNN for text generation.
