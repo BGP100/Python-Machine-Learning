@@ -12,7 +12,7 @@ A small cursor will appear in your output, and you can now type in the output!
 <br>
 In the output area, type something like:
 <code>"then you can type"</code>
-<img src="https://i.imgur.com/MT2rAHB.png">
+<img src="https://user-images.githubusercontent.com/97191004/192191565-a00b48fc-c9f8-419c-b3bb-d8196757726a.png">
 <h1>Setting Input to Variables</h1>
 You can also initialize a variable to input, so to get someone's name as input and then store it as a variable:
 <pre>
