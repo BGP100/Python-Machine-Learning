@@ -12,6 +12,6 @@ Read the article <a href="http://www.betterbuys.com/estimating-password-cracking
 <br>
 Look at the infographics and think about whether or not your passwords are strong enough!
 <br>
-<img src="https://i.imgur.com/cFBnON9.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192302786-ec5dd2a5-05a8-4629-8c74-021a7cf8680b.jpeg">
 <h1>Use Fake Passwords!</h1>
 If you enter a password in on the website in the box, make sure you don't use a real password you have. Create a new one for this activity.
