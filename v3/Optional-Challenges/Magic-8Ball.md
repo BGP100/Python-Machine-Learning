@@ -19,7 +19,7 @@ Extra Credit:
 <ul>
   <li>If someone rolls the highest amount possible, tell them they won the lottery</li>
 </ul>
-<img src="https://i.imgur.com/AKFqd3s.png">
+<img src="https://user-images.githubusercontent.com/97191004/192342201-0c0eea4c-d1a0-4a33-b9f7-c568ade36f6e.png">
 <br>
 If you can, build the entire above program before continuing on, but after you click continue here there will be a few prompts that will help you figure out what code you'll need, and define the program more specifically!
 <br>
