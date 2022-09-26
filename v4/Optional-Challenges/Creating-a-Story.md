@@ -12,7 +12,7 @@ Now that you've reviewed the basics of Python programming, you'll create a progr
 <br>
 3. Write a 6–8 line story that you'll use for the rest of the project.
 <br>
-<img src="https://i.imgur.com/WmCfulM.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192302786-ec5dd2a5-05a8-4629-8c74-021a7cf8680b.jpeg">
 <br>
 Here are seven lines about a happy dragon who becomes sad:
 <ol>
