@@ -16,6 +16,6 @@ Most of the code for this course will be written in Jupyter Notebooks. Follow th
   <li>Click through the graphic below to get familiar with the different parts of Jupyter Notebook.</li>
   <li>Run the cell to see the output.</li>
 </ol>
-<img src="https://i.imgur.com/7f7wRkm.png">
+<img src="https://user-images.githubusercontent.com/97191004/192189186-ee637806-8e91-49c2-bc31-97cea537c539.png">
 <h1>Recap</h1>
 Jupyter Notebook is a software platform that allows you to write python code and add markdown notes and information in the same document.
