@@ -19,7 +19,7 @@ if a > b:
 <br>
 4. Switch the values of  a  and  b , then run the program again.
 <br>
-<img src="https://i.imgur.com/FRAoCP9.png">
+<img src="https://user-images.githubusercontent.com/97191004/192287205-548c05ac-133c-43cb-a472-63ab89be113b.png">
 <br>
 Did anything happen?
 <br>
@@ -44,7 +44,7 @@ if x > 3:
   x += 2<br>
 print(x)
 </pre>
-<img src="https://i.imgur.com/Bt7f4kb.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192287233-81617496-db8e-46bd-8455-59c9a8b64b51.jpeg">
 <br>
 Indenting <code>print(x)</code> includes it with the if statement above.
 <h2>Boolean Values</h2>
