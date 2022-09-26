@@ -17,7 +17,7 @@ For example, you can have an array called "foods" that will contain "apple," "ch
 <br>
 The <i>index</i> starts at 0, so the index of "apple" will be 0, "cheese" will be 1, and "bread" will be 2. 
 <br>
-<img src="https://i.imgur.com/1mwlFjf.png">
+<img src="https://user-images.githubusercontent.com/97191004/192342721-50950f9d-dd6e-4316-a7bd-e4ce684a3de7.png">
 <br>
 A value in an array can be referenced like any other variable.
 <br>
@@ -31,7 +31,7 @@ Imagine the <code>foods[]</code> array from before. If you wanted to multiply ea
 <br>
 For NumPy arrays, however, the elements can all be multiplied by 2 simultaneously.
 <br>
-<img src="https://i.imgur.com/1mwlFjf.png">
+<img src="https://user-images.githubusercontent.com/97191004/192342721-50950f9d-dd6e-4316-a7bd-e4ce684a3de7.png">
 <br>
 Machine learning uses many operations on arrays of data. These data sets often contain thousands of numbers and to iterate through every single value one at a time would be difficult and lengthy. NumPy simplifies all of this.
 <h1>Importing NumPy</h1>
