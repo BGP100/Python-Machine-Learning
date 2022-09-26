@@ -6,7 +6,7 @@ The coding in this course will be done in Jupyter Notebooks. Follow these steps 
 <h1>Variables</h1>
 Variables are like boxes; they hold important information, or data. A variable can hold different data types, such as numbers or words.
 <br>
-<img src="https://i.imgur.com/hFy3a70.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192190185-e9f52700-d706-483c-af08-43e8395ec5e4.jpeg">
 Think of a chest. You can store items inside it, and give the chest a name to help you remember what you put in there.
 <br>
 In this case, you'll store some doughnuts in the chest. If you want to remember how many doughnuts you put in the chest, you could name it:
@@ -23,7 +23,7 @@ Say you have three doughnuts in your chest. You'd initialize your chest variable
 <br>
 <code>number_of_doughnuts = 3</code>
 <br>
-<img src="https://i.imgur.com/lZkvSlm.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192190689-c4f918c4-c9b7-438b-b7df-17429467ac65.jpeg">
 <h1>Print Variables</h1>
 To see the value of your variable when you run your program, you'll need to print it.
 <br>
@@ -45,7 +45,7 @@ These characters can be used to help format string output.
   <li><code>\t</code> - tab</li>
   <li><code>\"</code> - quotation</li>
 </ul>
-<img src="https://i.imgur.com/pUHjSSJ.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192190190-0f5345da-0d4d-4aa8-b91e-049517b7edc8.png">
 <b>Tip:</b> You can make a multi-line string with three quotation marks. You won't need <code>\n</code> characters with this option!
 <pre>
 my_multiple_line_string = """This is the first line
@@ -64,7 +64,7 @@ print(doughnuts_exist)
 </pre>
 To set it to not true, change the variable to:
 <pre>doughnuts_exist = False</pre>
-<img src="https://i.imgur.com/bd9E5tE.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192190192-2d2a844a-e2be-403a-b01e-4705f0f7082d.jpeg">
 <h1>Recap</h1>
 Use variables to store different types of data to use later in your program. Types of data:
 <pre>number_variable = 5</pre>
