@@ -7,7 +7,7 @@ You created a secret or an important story.
 <br>
 Now use the <code>input()</code> command to let the user enter a password, or they don't get to read what you wrote!
 <br>
-<img src="https://i.imgur.com/Po0DIGp.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192307872-28ceea1c-146b-40fa-bd6e-8cfb36b3bce9.jpeg">
 <br>
 <b>Collecting Input</b>
 <br>
@@ -15,7 +15,7 @@ Write a prompt and save, as a string, the user's response to a password variable
 <br>
 Make sure to put this code above where the story is printed.
 <br>
-<img src="https://i.imgur.com/lLtmbfg.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192307875-5b334663-da6a-4dc0-acdf-518d7c39ebab.jpeg">
 <br>
 1. Create a strong password variable.
 <br>
@@ -27,7 +27,7 @@ Make sure to put this code above where the story is printed.
 <br>
 Keep thinking how you could make your real story more secure, and only let people you want to read it see the full thing.
 <br>
-<img src="https://i.imgur.com/SY0zwaO.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192307878-ff239040-b43f-4a60-a778-dc5685f31b3b.jpeg">
 <br><br>
 <b>What would happen if you made a "fake" story and a "fake" password, so it would seem like the program worked, but it didn't output your real secret story?</b>
 <h1>Recap</h1>
