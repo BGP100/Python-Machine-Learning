@@ -25,7 +25,7 @@ To accomplish this, you'll need a for loop. You can use a for loop to access eac
 <pre>len(arrayName) # returns the number of elements in that array.</pre>
 You'll also need a third new array to hold the new sums.
 <pre>arrayName.append(value) # adds element to the array.</pre>
-<img src="https://i.imgur.com/c0Fb4z6.png">
+<img src="https://user-images.githubusercontent.com/97191004/192486808-b2182036-7e84-4035-beac-d35bf1e131a2.png">
 <br>
 You'll first create a holder list called <code>num3</code>. From there, use a for loop to loop <code>len(num1)</code> times to access each value in the two arrays. 
 <br>
@@ -52,7 +52,7 @@ arr2 = np.array([1, 1, 1, 1, 1])
 You should see the array printed with values added together. As long as both numpy arrays are the same size, you can add them together this way.
 <br>
 <code>[1, 2, 3] + [1, 2, 3]</code> would become <code>[2, 4, 6]</code>. If you had <code>[1,2] + [1,2,3]</code> it would return an error because the size of the arrays are different.
-<img src="https://i.imgur.com/0iNWSQ7.png">
+<img src="https://user-images.githubusercontent.com/97191004/192487406-0ed3a68d-9e96-462d-8571-358d395c7ace.png">
 <h1>Multiplication</h1>
 The same goes for multiplication. Replacing the plus sign in the previous example gives you the product of both arrays:
 <br>
