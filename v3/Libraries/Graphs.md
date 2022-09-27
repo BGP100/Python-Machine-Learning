@@ -15,16 +15,12 @@ To see these graphs, begin with a simple equation: y = x2.
 <pre>def function1(x):</pre>
 4. Create a return statement for the result of x squared:
 <pre>return x * x</pre>
-<img src="https://i.imgur.com/95FmC4D.png">
-<br>
 This function will square any value you pass it.
 <br>
 The values returned by  function1  need to be stored somewhere.
 <br>
 5. Create an empty list called "data" to store these values:
 <pre>data = [ ]</pre>
-<img src="https://i.imgur.com/JKu8gc2.png">
-<br>
 <h1>Find and graph the squares of all the numbers from 1 to 100</h1>
 Fill data with the squared values returned by <code>function1</code>. Use a for loop to pass in all the numbers from 1 to 100.
 1. Create a for loop using the range method:
@@ -45,7 +41,7 @@ print(data)
 </pre>
 3. Pass the list to a Matplotlib plot, like so:
 <br>
-<img src="https://i.imgur.com/w4iGZlh.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192492184-027eb00d-77bb-477e-b9f6-1ebf9f3305c5.jpeg">
 <br>
 <h1>arange(x)</h1>
 You've graphed all the values from 1 to 100 using a for loop, but you can also do it using a NumPy function for quicker and cleaner code.
@@ -58,7 +54,7 @@ This function is noninclusive, so it stops right before x.
 <br>
 1. Call <code>data = np.arange(100)</code> to return numbers from 0 to 99.
 <br>
-<img src="https://i.imgur.com/TtFa1yC.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192492882-19eef2e7-886f-4c56-8ab2-8af9029f1940.jpeg">
 <pre>
 import matplotlib.pyplot as plt
 import numpy as np<br>
@@ -70,7 +66,7 @@ print(data)
 Because NumPy arrays can have one operation performed on them rather than having to make a for loop to iterate through the whole array, you can pass it into a function as if it were a single value.
 2. Pass the array <pre>data</pre> into <pre>function1</pre>:
 <pre>output = function1(data)</pre>
-<img src="https://i.imgur.com/w4iGZlh.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192492184-027eb00d-77bb-477e-b9f6-1ebf9f3305c5.jpeg">
 <br>
 3. Examine the two ways to graph the squares of all the numbers between 1 to 100.
 <br>
