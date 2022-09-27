@@ -64,7 +64,7 @@ data = np.arange(100)
 print(data)
 </pre>
 Because NumPy arrays can have one operation performed on them rather than having to make a for loop to iterate through the whole array, you can pass it into a function as if it were a single value.
-2. Pass the array <pre>data</pre> into <pre>function1</pre>:
+2. Pass the array <code>data</code> into <code>function1</code>:
 <pre>output = function1(data)</pre>
 <img src="https://user-images.githubusercontent.com/97191004/192492184-027eb00d-77bb-477e-b9f6-1ebf9f3305c5.jpeg">
 <br>
