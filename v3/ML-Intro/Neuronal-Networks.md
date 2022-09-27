@@ -21,13 +21,13 @@ For each data point, you'll need to know its features and its label.
 <h1>Getting it Wrong: Loss</h1>
 Models are only helpful if they get their answers correct. When a data scientist makes a new model, they need to compute its loss: a number telling how often the model was wrong.
 <br>
-<img src="https://i.imgur.com/WcX1L0l.gif">
+<img src="https://user-images.githubusercontent.com/97191004/192495697-6d11a59b-c1d1-41e3-87f1-70d107e638b4.gif">
 <br>
 By measuring loss with a specific number, you can compare two models, and see which one is a better problem solver by finding the smaller loss.
 <h1>Play with Neural Networks</h1>
 The <a href="https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.65082&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false&showTestData_hide=true&stepButton_hide=true&problem_hide=true&noise_hide=true&discretize_hide=true&regularization_hide=true&dataset_hide=true&batchSize_hide=true&learningRate_hide=true&regularizationRate_hide=true&percTrainData_hide=true&numHiddenLayers_hide=true&activation_hide=true">Neural Network Playground</a> lets you explore simple neural networks and see how they work.
 <br>
-<img src="https://i.imgur.com/WjqKZnX.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192495054-2389828f-5567-4e92-ab90-3ec48e292a5b.jpeg">
 <h2>Examples</h2>
 2-layer circle
 <br>
