@@ -6,9 +6,9 @@
 <br>
 Teachable Machine is perfect for models with small datasets and simple tasks. The example below tests whether the user in the webcam is giving a thumbs-up or thumbs-down.
 <br>
-<img src="https://i.imgur.com/zhWxQdI.gif">
+<img src="https://user-images.githubusercontent.com/97191004/192555018-5b349b8f-ce56-445d-a03d-e3c2bbdd9b25.gif">
 <br>
-<a href="https://i.imgur.com/zhWxQdI.gif">Click here if it doesn't load</a>
+<a href="https://user-images.githubusercontent.com/97191004/192555018-5b349b8f-ce56-445d-a03d-e3c2bbdd9b25.gif">Click here if it doesn't load</a>
 <h1>What is a Machine Learning Model?</h1>
 Machine learning works by feeding data into a computer program, which uses that data to adjust its parameters and learn how to complete a task.
 <br>
@@ -24,7 +24,7 @@ First, you'll need to create a new Teachable Machine project.
 <br>
 2. In the pop-up click Standard image model to create your new model.
 <br>
-<img src="https://i.imgur.com/shGOxgu.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192529314-be363b3f-c43d-4a32-bb54-38dae0906456.jpeg">
 <br>
 On the left of the project workspace, you can edit the categories your model will attempt to classify.
 <br>
@@ -33,20 +33,20 @@ Rename Class 1 to "Rock" and Class 2 to "Scissors".
 <br>
 4. Click Add a class to add new classes: Add two new classes and name them "Paper" and "None".
 <br>
-<img src="https://i.imgur.com/4QvmNqF.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192529319-45a9994f-4699-407a-9ac6-76fb4647ecfe.png">
 <hr>
 Rock:
 <br>
-<img src="https://i.imgur.com/2W9cDdQ.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192529322-db9fdcdf-b764-4233-81ab-87ccd5e2e470.jpeg">
 Paper:
 <br>
-<img src="https://i.imgur.com/TcF8tZG.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192529323-f4650261-923a-4136-a431-d427f0131565.jpeg">
 Scissors:
 <br>
-<img src="https://i.imgur.com/DDBRh1Y.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192529325-6389fad0-f7bb-4292-8b7d-6f485a03a814.jpeg">
 None:
 <br>
-<img src="https://i.imgur.com/pMqCity.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192529326-3ccf10c9-b474-4c32-a5ea-8138c3c101c2.jpeg">
 <h1>Data Collection</h1>
 Now that your classes are set up, you need to collect the data your machine learning model will use to learn.
 <br>
@@ -60,9 +60,9 @@ The more data you provide for the model, the better it will be able to learn its
 <br>
 4. Repeat this process for each of the different hand signs, including None, where you'll hold up no hand signs.
 <br>
-<img src="https://i.imgur.com/p27cTvQ.gif">
+<img src="https://user-images.githubusercontent.com/97191004/192555095-1c853681-6d7e-420e-ac3e-948fe3a06990.gif">
 <br>
-<a href="https://i.imgur.com/p27cTvQ.gif">Click here if it doesn't load</a>
+<a href="https://user-images.githubusercontent.com/97191004/192555095-1c853681-6d7e-420e-ac3e-948fe3a06990.gif">Click here if it doesn't load</a>
 <br><br>
 A good dataset is the foundation of an effective machine learning model. The more varied data you provide for each of the classes, the better the model will be able to detect each of the different classes. Now that you've collected your data, you can train the model.
 <h1>Training</h1>
@@ -74,7 +74,7 @@ Behind the scenes, Teachable Machine is feeding your data for each class into th
 <br>
 3. Once training finishes, use your webcam to preview the results and see a live feed of the prediction your model is making for the current webcam image.
 <br>
-<img src="https://i.imgur.com/TuxDBa0.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192529328-a798960a-f82e-4389-b24c-9a154f4efd5b.jpeg">
 <br>
 You've got a trained model, but it's probably not perfect at its job! You can improve it by identifying issues and providing more training data.
 <h1>Tuning the Model</h1>
@@ -88,15 +88,15 @@ Improving the quality of the provided model allows your network to be more effec
 <br>
 The example below shows one incorrect reading a model might make:
 <br>
-<img src="https://i.imgur.com/5FtfyO8.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192529331-8f3afdb9-eee4-4fdc-8359-918d0d273e78.jpeg">
 <br>
 4. Return to the data section on the left and use the webcam recorder to create more data. Try using poses based on the issues you identified to fix any model issues you found.
 <br>
-<img src="https://i.imgur.com/0UEfuMK.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192529332-a9833906-84d0-4e34-b635-bf70a136ab0e.jpeg">
 <br>
 5. Click Train Model to retrain your model with the added data.
 <br>
-<img src="https://i.imgur.com/HeKV8da.jpg">
+<img src="https://user-images.githubusercontent.com/97191004/192529334-63b16a1a-e486-4f6d-b57b-f2848cfa6348.jpeg">
 <br>
 You can keep improving and tuning your model by repeating this process. Once you're satisfied with your changes and training, congratulations! You've created your own dataset, used it to train a neural network, and refined the results by improving the quality of your data!
 <br>
